@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o5ILcbxZgG+HkVVYAH/rm7L9LydLtfw+abj72x4lTaY=",
+  "Source": "AdminPortal",
+  "BasePath": "_content/AdminPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
