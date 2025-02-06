@@ -169,4 +169,4 @@ C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\refi
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.pdb
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.genruntimeconfig.cache
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\ref\AdminPortal.dll
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.sourcelink.json
