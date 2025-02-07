@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "AdminPortal.Controllers.EmployeeController",
+    "Method": "Login",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "AdminPortal.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdminPortal.Controllers.EmployeeController",
     "Method": "GetAllEmployees",
     "RelativePath": "api/Employee",
     "HttpMethod": "GET",
