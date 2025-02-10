@@ -167,7 +167,7 @@ namespace AdminPortal.Controllers
                 return Ok(new { Message = "Employee Data Deleted Successfully" });
             }
             return Unauthorized(
-                "Not a admin or adminstrator! Not allowed to perform this function"
+                "Not a admin or adminstrator! Not allowed to perform this functions"
             );
         }
     }
