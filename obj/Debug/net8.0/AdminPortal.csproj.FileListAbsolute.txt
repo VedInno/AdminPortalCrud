@@ -1,3 +1,11 @@
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.csproj.AssemblyReference.cache
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.AssemblyInfoInputs.cache
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.AssemblyInfo.cs
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.csproj.CoreCompileInputs.cache
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.sourcelink.json
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\appsettings.json
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\AdminPortal.staticwebassets.endpoints.json
@@ -9,6 +17,7 @@ C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Admi
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -146,13 +155,6 @@ C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\runt
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.csproj.AssemblyReference.cache
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.AssemblyInfoInputs.cache
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.AssemblyInfo.cs
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.csproj.CoreCompileInputs.cache
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\scopedcss\bundle\AdminPortal.styles.css
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\staticwebassets.development.json
@@ -169,5 +171,3 @@ C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\refi
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.pdb
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.genruntimeconfig.cache
 C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\ref\AdminPortal.dll
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\obj\Debug\net8.0\AdminPortal.sourcelink.json
-C:\Users\vedant.shahi\source\repos\AdminPortal\AdminPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

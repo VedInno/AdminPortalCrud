@@ -119,7 +119,7 @@ namespace AdminPortal.Controllers
                 );
             }
             return Unauthorized(
-                "Not a admin or adminstrator! Not allowed to perform this function"
+                "Not a admin or adminstrator! Not allowed to perform this type of function"
             );
         }
 
