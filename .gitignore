@@ -1,1 +1,76 @@
-/bin
+# Visual Studio specific files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.csproj.user
+*.csproj.DotSettings
+
+# Rider / Resharper
+.idea/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+packages/
+!packages/repositories.config
+
+# Logs & Temp Files
+logs/
+*.log
+*.tlog
+*.cache
+*.pdb
+*.pidb
+*.svclog
+*.log
+
+# ASP.NET Temp Files
+App_Data/
+AppCache/
+Thumbs.db
+*.bak
+*.swp
+*.swo
+
+# User-specific settings
+*.dbmdl
+*.sdf
+*.sqlite
+*.mdf
+*.ldf
+
+# Entity Framework Migrations
+Migrations/
+
+# Publish directory
+wwwroot/
+publish/
+node_modules/
+dist/
+
+# Configuration secrets
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Optional: Include the following if using Docker
+docker-compose.override.yml
+.dockerignore

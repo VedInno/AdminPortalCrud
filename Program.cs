@@ -4,8 +4,18 @@ using AdminPortal.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Serilog;
+using Serilog.Formatting.Json;
 
 var builder = WebApplication.CreateBuilder(args);
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.File("Logs/log.txt", rollingInterval: RollingInterval.Day)
+    .Enrich.FromLogContext()
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+builder.Host.UseSerilog();
 
 // Add services to the container.
 
@@ -55,8 +65,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseSerilogRequestLogging();
 
 app.UseAuthorization();
+
+app.MapControllers();
+
+// Ensure logs are flushed on shutdown
+app.Lifetime.ApplicationStopped.Register(Log.CloseAndFlush);
 
 app.MapControllers();
 
